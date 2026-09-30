@@ -52,5 +52,5 @@ public class NumberToolsTest {
         assertEquals(expected, actual, TOLERANCE);
     }
 }
-}
+
 
